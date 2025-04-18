@@ -3,4 +3,4 @@ jdk:
 
 build:
   commands:
-    - mvn install -Dspotless.skip=true
+    - mvn clean install -Dspotless.skip=true
