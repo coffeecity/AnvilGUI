@@ -1,5 +1,5 @@
 jdk:
-  - openjdk16.0.2
+  - openjdk16
 
 build:
   commands:
